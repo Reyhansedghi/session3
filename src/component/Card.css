@@ -1,0 +1,25 @@
+.cardcss{
+    border: 1px solid lightgray;
+    width: 150px;
+    height: 230px;
+
+}
+.image{
+    width: 30px;
+}
+.name
+{
+    color: red;
+    font-size: 1.2em;
+}
+
+.price
+{
+color: green;
+}
+.btnadd{
+    background-color: blue;
+    color: white;
+    padding: 3px 7px;
+    border-radius: 30px;
+}

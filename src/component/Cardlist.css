@@ -1,0 +1,9 @@
+.flexboxofproducts{
+    width:85%;
+    margin: 0px auto;
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    border: 1px solid gray;
+}
